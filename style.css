@@ -283,3 +283,9 @@ section {
 footer img {
 	max-width: 100px;
 }
+
+.destacadas {
+	background-image: url(assets/bg-img.jpg);
+	background-size: cover;
+	background-blend-mode: overlay;
+}
